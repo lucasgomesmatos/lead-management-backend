@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\bin\Debug\net8.0\LeadManagement.Domain.deps.json
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\bin\Debug\net8.0\LeadManagement.Domain.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\bin\Debug\net8.0\LeadManagement.Domain.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\refint\LeadManagement.Domain.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\ref\LeadManagement.Domain.dll

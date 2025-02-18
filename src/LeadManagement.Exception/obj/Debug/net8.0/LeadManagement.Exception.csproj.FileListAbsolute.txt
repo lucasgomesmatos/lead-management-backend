@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\bin\Debug\net8.0\LeadManagement.Exception.deps.json
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\bin\Debug\net8.0\LeadManagement.Exception.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\bin\Debug\net8.0\LeadManagement.Exception.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\refint\LeadManagement.Exception.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\ref\LeadManagement.Exception.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ytxeplnM5IJh4Az3ZuzJisuVxycJAbf2PrmNtc5rIEM=",
+  "Source": "LeadManagement.Api",
+  "BasePath": "_content/LeadManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

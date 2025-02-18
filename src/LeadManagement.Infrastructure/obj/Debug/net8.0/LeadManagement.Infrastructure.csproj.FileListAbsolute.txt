@@ -1,0 +1,17 @@
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Infrastructure.deps.json
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Infrastructure.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Infrastructure.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Domain.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Domain.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadMana.6F01524D.Up2Date
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\refint\LeadManagement.Infrastructure.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.pdb
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\ref\LeadManagement.Infrastructure.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Infrastructure.runtimeconfig.json
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.genruntimeconfig.cache

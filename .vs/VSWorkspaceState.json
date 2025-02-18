@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\LeadManagement.Infrastructure",
+    "\\src\\LeadManagement.Infrastructure\\DataAccess"
+  ],
+  "SelectedNode": "\\src\\LeadManagement.Infrastructure\\DataAccess\\LeadManagementDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

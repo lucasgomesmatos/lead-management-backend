@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642971CC-8A76-40D3-81A1-CA1D0A0D188A}|src\\LeadManagement.Infrastructure\\LeadManagement.Infrastructure.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.infrastructure\\dataaccess\\repositories\\leadsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642971CC-8A76-40D3-81A1-CA1D0A0D188A}|src\\LeadManagement.Infrastructure\\LeadManagement.Infrastructure.csproj|solutionrelative:src\\leadmanagement.infrastructure\\dataaccess\\repositories\\leadsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642971CC-8A76-40D3-81A1-CA1D0A0D188A}|src\\LeadManagement.Infrastructure\\LeadManagement.Infrastructure.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.infrastructure\\dataaccess\\email\\mailkitemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642971CC-8A76-40D3-81A1-CA1D0A0D188A}|src\\LeadManagement.Infrastructure\\LeadManagement.Infrastructure.csproj|solutionrelative:src\\leadmanagement.infrastructure\\dataaccess\\email\\mailkitemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.application\\usecases\\lead\\accepted\\updatestatusleadacceptedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|solutionrelative:src\\leadmanagement.application\\usecases\\lead\\accepted\\updatestatusleadacceptedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7B042-B01F-496F-ADE5-4ACCF5F10FF9}|src\\LeadManagement.Api\\LeadManagement.Api.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F7B042-B01F-496F-ADE5-4ACCF5F10FF9}|src\\LeadManagement.Api\\LeadManagement.Api.csproj|solutionrelative:src\\leadmanagement.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.application\\usecases\\lead\\declined\\updatestatusleaddeclinedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|solutionrelative:src\\leadmanagement.application\\usecases\\lead\\declined\\updatestatusleaddeclinedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.application\\usecases\\lead\\sendemail\\senderemailusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|solutionrelative:src\\leadmanagement.application\\usecases\\lead\\sendemail\\senderemailusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|c:\\users\\lucas\\documents\\workspace\\leadmanagement\\src\\leadmanagement.application\\usecases\\lead\\accepted\\iupdatestatusleadacceptedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5645932-64C2-45E7-B5C5-885FA83B13D7}|src\\LeadManagement.Application\\LeadManagement.Application.csproj|solutionrelative:src\\leadmanagement.application\\usecases\\lead\\accepted\\iupdatestatusleadacceptedusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Infrastructure\\DataAccess\\Repositories\\LeadsRepository.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Infrastructure\\DataAccess\\Repositories\\LeadsRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Infrastructure\\DataAccess\\Repositories\\LeadsRepository.cs",
+              "RelativeToolTip": "src\\LeadManagement.Infrastructure\\DataAccess\\Repositories\\LeadsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:09:19.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailKitEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Infrastructure\\DataAccess\\Email\\MailKitEmailService.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Infrastructure\\DataAccess\\Email\\MailKitEmailService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Infrastructure\\DataAccess\\Email\\MailKitEmailService.cs",
+              "RelativeToolTip": "src\\LeadManagement.Infrastructure\\DataAccess\\Email\\MailKitEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:46:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SenderEmailUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\SendEmail\\SenderEmailUseCase.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Application\\UseCases\\Lead\\SendEmail\\SenderEmailUseCase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\SendEmail\\SenderEmailUseCase.cs",
+              "RelativeToolTip": "src\\LeadManagement.Application\\UseCases\\Lead\\SendEmail\\SenderEmailUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:46:16.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateStatusLeadDeclinedUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Declined\\UpdateStatusLeadDeclinedUseCase.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Application\\UseCases\\Lead\\Declined\\UpdateStatusLeadDeclinedUseCase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Declined\\UpdateStatusLeadDeclinedUseCase.cs",
+              "RelativeToolTip": "src\\LeadManagement.Application\\UseCases\\Lead\\Declined\\UpdateStatusLeadDeclinedUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:46:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Api\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Api\\Controllers\\LeadsController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Api\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "src\\LeadManagement.Api\\Controllers\\LeadsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:44:27.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStatusLeadAcceptedUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\UpdateStatusLeadAcceptedUseCase.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\UpdateStatusLeadAcceptedUseCase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\UpdateStatusLeadAcceptedUseCase.cs",
+              "RelativeToolTip": "src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\UpdateStatusLeadAcceptedUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:44:19.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUpdateStatusLeadAcceptedUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\IUpdateStatusLeadAcceptedUseCase.cs",
+              "RelativeDocumentMoniker": "src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\IUpdateStatusLeadAcceptedUseCase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\Workspace\\LeadManagement\\src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\IUpdateStatusLeadAcceptedUseCase.cs",
+              "RelativeToolTip": "src\\LeadManagement.Application\\UseCases\\Lead\\Accepted\\IUpdateStatusLeadAcceptedUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:44:18.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
