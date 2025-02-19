@@ -9,3 +9,4 @@ C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Communicati
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Communication\obj\Debug\net8.0\refint\LeadManagement.Communication.dll
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Communication\obj\Debug\net8.0\LeadManagement.Communication.pdb
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Communication\obj\Debug\net8.0\ref\LeadManagement.Communication.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Communication\obj\Debug\net8.0\LeadManagement.Communication.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\refint\LeadManagement.Domain.dll
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.pdb
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\ref\LeadManagement.Domain.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Domain\obj\Debug\net8.0\LeadManagement.Domain.sourcelink.json

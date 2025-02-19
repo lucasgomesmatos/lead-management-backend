@@ -9,3 +9,4 @@ C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\o
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\refint\LeadManagement.Exception.dll
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.pdb
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\ref\LeadManagement.Exception.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Exception\obj\Debug\net8.0\LeadManagement.Exception.sourcelink.json

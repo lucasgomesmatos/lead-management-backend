@@ -17,3 +17,4 @@ C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Application
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Application\obj\Debug\net8.0\refint\LeadManagement.Application.dll
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Application\obj\Debug\net8.0\LeadManagement.Application.pdb
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Application\obj\Debug\net8.0\ref\LeadManagement.Application.dll
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Application\obj\Debug\net8.0\LeadManagement.Application.sourcelink.json

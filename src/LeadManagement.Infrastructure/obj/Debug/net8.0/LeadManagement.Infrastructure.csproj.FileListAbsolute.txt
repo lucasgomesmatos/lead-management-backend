@@ -15,3 +15,4 @@ C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastruct
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\ref\LeadManagement.Infrastructure.dll
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\bin\Debug\net8.0\LeadManagement.Infrastructure.runtimeconfig.json
 C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\Lucas\Documents\Workspace\LeadManagement\src\LeadManagement.Infrastructure\obj\Debug\net8.0\LeadManagement.Infrastructure.sourcelink.json
