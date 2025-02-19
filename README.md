@@ -24,7 +24,7 @@ $ git clone  https://github.com/lucasgomesmatos/lead-management-backend.git
 ```
 ```bash
 
-# Rodo as migrations para criar o banco de dados 
+# Rodar as migrations para criar o banco de dados 
 # Acesse a pasta do src e execute o comando
 
 $ dotnet ef database update --project LeadManagement.Infrastructure
