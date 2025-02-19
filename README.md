@@ -1,4 +1,4 @@
-# Lead Management - Frontend
+# Lead Management - Backend
 Sistema de gerenciamento de leads para empresas.
 
 ## Tech Stack
